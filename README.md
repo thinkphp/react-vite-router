@@ -1,4 +1,4 @@
-# MyBank ( React Router Demo )
+# MyBank ( React Router )
 
 A small, beginner-friendly banking dashboard built with React and React Router. It demonstrates how navigation links connect to page components without reloading the app.
 
